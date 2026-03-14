@@ -43,16 +43,3 @@ Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 ---
 
-# 🛠️ Red Team Tools
-
-| Tool | Description | OS |
-|---|---|---|
-| 🩸 BloodHound | Active Directory attack path discovery | Windows/Linux |
-| 🔍 PowerView | AD enumeration framework | Windows |
-| ⚔️ Impacket | Python exploitation toolkit | Linux |
-| 🧬 BloodyAD | Active Directory abuse automation | Linux |
-| 🔑 Mimikatz | Credential extraction tool | Windows |
-| 💻 Evil-WinRM | Remote PowerShell shell | Linux |
-
----
-
