@@ -1,15 +1,17 @@
 # Abusing-DACL
 
-# 🔴 Red Teaming – Active Directory Attack Techniques
+## 🌐 Connect With Us
 
-![RedTeam](https://img.shields.io/badge/RedTeam-ActiveDirectory_Attacks-darkred?style=for-the-badge)
-![MITRE](https://img.shields.io/badge/MITRE-ATT&CK-orange?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
-![Pentesting](https://img.shields.io/badge/Pentesting-Privilege_Escalation-green?style=for-the-badge)
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
 
-📚 This repository contains **Active Directory Red Teaming techniques** documented on **HackingArticles**.
+## 🎓 Training Program
 
-These techniques demonstrate **privilege escalation paths caused by Active Directory misconfigurations**.
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 ---
 
@@ -54,7 +56,3 @@ These techniques demonstrate **privilege escalation paths caused by Active Direc
 
 ---
 
-# 🔍 Enumeration Example
-
-```bash
-bloodhound-python -u user -p password -d domain.local -c All
